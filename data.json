@@ -1,6 +1,6 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
-  "owner": "ชื่อนักศึกษา",
+  "shopName": "My drink with kamen Ride",
+  "owner": "ชิษณุพงศ์",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
   "products": [
@@ -16,17 +16,17 @@
       "id": 2,
       "name": "ชาไทย",
       "price": 45,
-      "emoji": "🧋",
+      "emoji": "🧉",
       "available": true,
       "tags": ["ชา", "เย็น", "ขายดี"]
     },
     {
       "id": 3,
-      "name": "ครัวซองต์",
-      "price": 60,
-      "emoji": "🥐",
-      "available": false,
-      "tags": ["เบเกอรี่"]
+      "name": "ชาเขียวร้อน",
+      "price": 45,
+      "emoji": "🍵",
+      "available": true,
+      "tags": ["ชา","ร้อน","ขายดี"]
     }
   ]
 }
